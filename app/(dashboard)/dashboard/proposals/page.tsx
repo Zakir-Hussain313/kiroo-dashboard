@@ -1,0 +1,10 @@
+export default function ProposalsPage() {
+  return (
+    <div>
+      <h1 style={{ fontSize: 20, fontWeight: 600, color: '#ededed', letterSpacing: '-0.4px', marginBottom: 8 }}>
+        Proposals
+      </h1>
+      <p style={{ fontSize: 13, color: '#555' }}>Proposal generation coming in Phase 5.</p>
+    </div>
+  )
+}
